@@ -11,6 +11,7 @@ namespace TestApp
         static void Main(string[] args) {
             Console.WriteLine("My Test App");
             Console.WriteLine("Learning GitHub");
+            Console.WriteLine("Creating new branch.");
         }
     }
 }
